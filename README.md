@@ -15,6 +15,6 @@ Why hello there! I'm Hope41, an independent developer who creates fully-featured
 - 💬 Game feedback is welcome! Constructive criticism goes a long way ~
 
 ### Info
-- ✅ [joachimford.uk](https://joachimford.uk) has had a huge update! Feedback is always appreciated
+- ✅ [joachimford.uk](https://joachimford.uk) has had a huge update! Feedback is always appreciated !
 - ⚙️ Getting prepared for more games by making a simple (but comprehensive, hopefully) 2D level creation tool. The tool will be posted on my website when complete
 
