@@ -9,7 +9,7 @@ Why hello there! I'm Hope41, an independent developer who creates fully-featured
 
 ### News
 
-- Completely new game "Balance FISH" made for the Gamedev.js Jam 2025. Pinned below!
+- Play the brand-new game (May 9th) "Balance FISH" made for the Gamedev.js Jam 2025. Pinned below!
 - Creating an online video editor, utilising shaders for special effects. Subscribe to the newsletter to get notified when it's completed
 
 ### Trivia
