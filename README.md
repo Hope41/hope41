@@ -13,7 +13,6 @@ Why hello there! I'm Hope41, an independent developer who creates fully-featured
 - Creating an online video editor, utilising shaders for special effects. Subscribe to the newsletter to get notified when it's completed
 
 ### Trivia
-- 👾 You can call me J-oh for short!
 - 📧 I like it when people email me
 - ⭐ I really like stars! (like, GitHub ones. Although of course I have nothing against normal stars)
 - 🎹 I play piano sometimes!
