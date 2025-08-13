@@ -4,7 +4,7 @@
 
 Why hello there! I'm Hope41, an independent developer who creates fully-featured online games in pure JavaScript.
 
-- #### Games and projects at [joachimford.uk](https://joachimford.uk)!
+### Games and projects at [joachimford.uk](https://joachimford.uk)!
 
 ### News
 
