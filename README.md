@@ -1,4 +1,4 @@
-<kbd>![interpolate-procedural-animation-3](https://github.com/user-attachments/assets/b27bf8f0-a031-40ff-ae22-2f91daa0c078)</kbd>
+<kbd><img width="1920" height="472" alt="balance-fish-2" src="https://github.com/user-attachments/assets/21a6527a-1634-44ba-a8ee-56e87e77d94c" /></kbd>
 
 ## Hi, I'm an Indie Game Developer! 👾
 
